@@ -21,6 +21,6 @@
     "description": "This is a project made using binary CNN model which predicts disease in a crop via images.",
     "skills": ["Python", "ML", "Flask"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/stroopstrata/CNN_binary.git"
   }
 ]
