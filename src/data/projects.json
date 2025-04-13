@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to see the weather conditions.",
+    "skills": ["React", "Javascript", "Css"],
+    "demo": "https://weatherapp-three-kappa.vercel.app/",
+    "source": "https://github.com/stroopstrata/weatherapp.git"
+  },
+  {
+    "title": "Github Details Fetcher",
+    "imageSrc": "projects/project.png",
+    "description": "This is a learning by doing project made to fetch github user details based on their username impout.",
+    "skills": ["React", "Css", "Javascript", "API"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Crop Disease Prediction System ",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made using binary CNN model which predicts disease in a crop via images.",
+    "skills": ["Python", "ML", "Flask"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
